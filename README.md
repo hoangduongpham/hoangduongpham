@@ -6,7 +6,7 @@
 
 - 🧑‍🎓 I’m currently a third-year student in **[Hanoi University of Science](http://hus.vnu.edu.vn/)**
 
-- 📖 On my way to learn web, blockchain and AI development
+- 📖 On my way to learn web and AI development
 
 - 🗣️ Native Vietnamese, Intermediate English and Beginner Japanese
 
@@ -20,12 +20,9 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/javascript_original_logo_icon_146455.png"/> </a>
     <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/> </a>
     <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/> </a>
-    <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/rust_lang_logo_icon_169776.png"/> </a>
-    <a href="https://go.dev/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/golang_logo_icon_171073.png"/> </a>
-    <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_light_solidity_icon_130436.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_django_icon_130645.png"/> </a> 
-    <a href="https://trufflesuite.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/48/truffle_icon_131920.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_django_icon_130645.png"/> </a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/dot_net_original_wordmark_logo_icon_146547.png"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/mysql_original_wordmark_logo_icon_146417.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/> </a>
 </p>
